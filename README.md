@@ -15,4 +15,4 @@ React, NextJS, Javascript, CSS
 4. Open your web browser and navigate to http://localhost:3000/
 
 ## Example
-<img src="../assets/vcpitch.png">
+<img src="./assets/vcpitch.png">
